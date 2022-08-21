@@ -1,7 +1,7 @@
 ### Instruction
 ### Create bot account go to URL =>
 https://partners.viber.com/login?returnUrl=%2Faccount%2Fcreate-bot-account
-### Create file config.py and input your API_KEY="".
+### Input your API_KEY="".
 ### Expose your chat bot service to the internet.
 ### Command in terminal:
 ### Install ngrok and run him
